@@ -14,8 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: >-
-      images/sine-wave-icons-download-free-vector-icons-noun-project-sine-wave-png-200_200.png
+    image: images/hero.svg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
